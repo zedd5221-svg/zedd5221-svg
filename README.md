@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/xyntax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xyntax" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p align="start">
   <img src="cat.gif" alt="Cat GIF" width="100">
 </p>
 <h3 align="left">Languages and Tools:</h3>

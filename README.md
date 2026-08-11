@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarcon Ulama</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-[![Cat GIF](https://media.tenor.com/your-direct-gif-url.gif)](https://tenor.com/view/cat-gif-15576427988077166007)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedd5221-svg&label=Profile%20views&color=0e75b6&style=flat" alt="zedd5221-svg" /> </p>
 
 - 🔭 I’m currently working on **Polymedic Site**

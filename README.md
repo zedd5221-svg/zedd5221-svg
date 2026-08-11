@@ -27,7 +27,7 @@
 
 </td>
 
-<td valign="middle" align="center" width="35%">
+<td valign="middle" align="center" width="35%" bgcolor="#ffffff" style="padding: 20px;">
 
 <div style="background-color: white; padding: 20px; border-radius: 15px;">
 

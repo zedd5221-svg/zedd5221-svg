@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="100%">
 
 <h3>A passionate developer from Philippines 🇵🇭</h3>
 
